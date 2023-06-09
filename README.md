@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Check out our [lab webpage here](https://clareaulab.org)
 <!--
 **caleblareau/caleblareau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
